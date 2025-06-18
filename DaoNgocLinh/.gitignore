@@ -1,0 +1,9 @@
+# Ignore Visual Studio folder
+.vs/
+*.vsidx
+*.user
+*.suo
+
+# Build output
+bin/
+obj/
